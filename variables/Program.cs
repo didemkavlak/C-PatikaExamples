@@ -77,7 +77,7 @@ namespace HelloWorld
             int int21 = int20 + Convert.ToInt32(str20);
             Console.WriteLine(int21); // çıktısı 40
 
-            int int22 = int20 + int.Parse(str20); // çıktısı 40
+            int int22 = int20 + int.Parse(str20); // çıktısı 40 yalnızca string alır!!!!!
 
             //Datetime
 
