@@ -1,0 +1,15 @@
+C:\Users\didem\Desktop\newLanguage\For Loop and Break Continue\bin\Debug\net6.0\For Loop and Break Continue.exe
+C:\Users\didem\Desktop\newLanguage\For Loop and Break Continue\bin\Debug\net6.0\For Loop and Break Continue.deps.json
+C:\Users\didem\Desktop\newLanguage\For Loop and Break Continue\bin\Debug\net6.0\For Loop and Break Continue.runtimeconfig.json
+C:\Users\didem\Desktop\newLanguage\For Loop and Break Continue\bin\Debug\net6.0\For Loop and Break Continue.dll
+C:\Users\didem\Desktop\newLanguage\For Loop and Break Continue\bin\Debug\net6.0\For Loop and Break Continue.pdb
+C:\Users\didem\Desktop\newLanguage\For Loop and Break Continue\obj\Debug\net6.0\For Loop and Break Continue.csproj.AssemblyReference.cache
+C:\Users\didem\Desktop\newLanguage\For Loop and Break Continue\obj\Debug\net6.0\For Loop and Break Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didem\Desktop\newLanguage\For Loop and Break Continue\obj\Debug\net6.0\For Loop and Break Continue.AssemblyInfoInputs.cache
+C:\Users\didem\Desktop\newLanguage\For Loop and Break Continue\obj\Debug\net6.0\For Loop and Break Continue.AssemblyInfo.cs
+C:\Users\didem\Desktop\newLanguage\For Loop and Break Continue\obj\Debug\net6.0\For Loop and Break Continue.csproj.CoreCompileInputs.cache
+C:\Users\didem\Desktop\newLanguage\For Loop and Break Continue\obj\Debug\net6.0\For Loop and Break Continue.dll
+C:\Users\didem\Desktop\newLanguage\For Loop and Break Continue\obj\Debug\net6.0\refint\For Loop and Break Continue.dll
+C:\Users\didem\Desktop\newLanguage\For Loop and Break Continue\obj\Debug\net6.0\For Loop and Break Continue.pdb
+C:\Users\didem\Desktop\newLanguage\For Loop and Break Continue\obj\Debug\net6.0\For Loop and Break Continue.genruntimeconfig.cache
+C:\Users\didem\Desktop\newLanguage\For Loop and Break Continue\obj\Debug\net6.0\ref\For Loop and Break Continue.dll

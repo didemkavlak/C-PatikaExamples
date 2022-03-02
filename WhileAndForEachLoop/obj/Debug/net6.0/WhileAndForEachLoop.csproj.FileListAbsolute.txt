@@ -1,0 +1,15 @@
+C:\Users\didem\Desktop\newLanguage\WhileAndForEachLoop\bin\Debug\net6.0\WhileAndForEachLoop.exe
+C:\Users\didem\Desktop\newLanguage\WhileAndForEachLoop\bin\Debug\net6.0\WhileAndForEachLoop.deps.json
+C:\Users\didem\Desktop\newLanguage\WhileAndForEachLoop\bin\Debug\net6.0\WhileAndForEachLoop.runtimeconfig.json
+C:\Users\didem\Desktop\newLanguage\WhileAndForEachLoop\bin\Debug\net6.0\WhileAndForEachLoop.dll
+C:\Users\didem\Desktop\newLanguage\WhileAndForEachLoop\bin\Debug\net6.0\WhileAndForEachLoop.pdb
+C:\Users\didem\Desktop\newLanguage\WhileAndForEachLoop\obj\Debug\net6.0\WhileAndForEachLoop.csproj.AssemblyReference.cache
+C:\Users\didem\Desktop\newLanguage\WhileAndForEachLoop\obj\Debug\net6.0\WhileAndForEachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didem\Desktop\newLanguage\WhileAndForEachLoop\obj\Debug\net6.0\WhileAndForEachLoop.AssemblyInfoInputs.cache
+C:\Users\didem\Desktop\newLanguage\WhileAndForEachLoop\obj\Debug\net6.0\WhileAndForEachLoop.AssemblyInfo.cs
+C:\Users\didem\Desktop\newLanguage\WhileAndForEachLoop\obj\Debug\net6.0\WhileAndForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\didem\Desktop\newLanguage\WhileAndForEachLoop\obj\Debug\net6.0\WhileAndForEachLoop.dll
+C:\Users\didem\Desktop\newLanguage\WhileAndForEachLoop\obj\Debug\net6.0\refint\WhileAndForEachLoop.dll
+C:\Users\didem\Desktop\newLanguage\WhileAndForEachLoop\obj\Debug\net6.0\WhileAndForEachLoop.pdb
+C:\Users\didem\Desktop\newLanguage\WhileAndForEachLoop\obj\Debug\net6.0\WhileAndForEachLoop.genruntimeconfig.cache
+C:\Users\didem\Desktop\newLanguage\WhileAndForEachLoop\obj\Debug\net6.0\ref\WhileAndForEachLoop.dll

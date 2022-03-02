@@ -16,7 +16,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 Console.WriteLine("İyi Geceler");
             }
 
-            string sonuc = time >= 6 && time < 11 ? "Günaydın!" : time <= 18 ? "İyi günler!" : "İyi geceler!";
+            string sonuc = time >= 6 && time < 11 ? "Günaydın!" : time <= 18 ? "İyi günler!" : "İyi geceler!"; // Ternary if
             Console.WriteLine(sonuc);
         }
     }
