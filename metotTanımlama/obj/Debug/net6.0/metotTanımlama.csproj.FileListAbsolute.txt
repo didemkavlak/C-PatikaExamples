@@ -1,0 +1,15 @@
+C:\Users\didem\Desktop\newLanguage\metotTanımlama\bin\Debug\net6.0\metotTanımlama.exe
+C:\Users\didem\Desktop\newLanguage\metotTanımlama\bin\Debug\net6.0\metotTanımlama.deps.json
+C:\Users\didem\Desktop\newLanguage\metotTanımlama\bin\Debug\net6.0\metotTanımlama.runtimeconfig.json
+C:\Users\didem\Desktop\newLanguage\metotTanımlama\bin\Debug\net6.0\metotTanımlama.dll
+C:\Users\didem\Desktop\newLanguage\metotTanımlama\bin\Debug\net6.0\metotTanımlama.pdb
+C:\Users\didem\Desktop\newLanguage\metotTanımlama\obj\Debug\net6.0\metotTanımlama.csproj.AssemblyReference.cache
+C:\Users\didem\Desktop\newLanguage\metotTanımlama\obj\Debug\net6.0\metotTanımlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didem\Desktop\newLanguage\metotTanımlama\obj\Debug\net6.0\metotTanımlama.AssemblyInfoInputs.cache
+C:\Users\didem\Desktop\newLanguage\metotTanımlama\obj\Debug\net6.0\metotTanımlama.AssemblyInfo.cs
+C:\Users\didem\Desktop\newLanguage\metotTanımlama\obj\Debug\net6.0\metotTanımlama.csproj.CoreCompileInputs.cache
+C:\Users\didem\Desktop\newLanguage\metotTanımlama\obj\Debug\net6.0\metotTanımlama.dll
+C:\Users\didem\Desktop\newLanguage\metotTanımlama\obj\Debug\net6.0\refint\metotTanımlama.dll
+C:\Users\didem\Desktop\newLanguage\metotTanımlama\obj\Debug\net6.0\metotTanımlama.pdb
+C:\Users\didem\Desktop\newLanguage\metotTanımlama\obj\Debug\net6.0\metotTanımlama.genruntimeconfig.cache
+C:\Users\didem\Desktop\newLanguage\metotTanımlama\obj\Debug\net6.0\ref\metotTanımlama.dll
