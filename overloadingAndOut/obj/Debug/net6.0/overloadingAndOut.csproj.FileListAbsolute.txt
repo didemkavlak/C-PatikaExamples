@@ -1,0 +1,15 @@
+C:\Users\didem\Desktop\newLanguage\overloadingAndOut\bin\Debug\net6.0\overloadingAndOut.exe
+C:\Users\didem\Desktop\newLanguage\overloadingAndOut\bin\Debug\net6.0\overloadingAndOut.deps.json
+C:\Users\didem\Desktop\newLanguage\overloadingAndOut\bin\Debug\net6.0\overloadingAndOut.runtimeconfig.json
+C:\Users\didem\Desktop\newLanguage\overloadingAndOut\bin\Debug\net6.0\overloadingAndOut.dll
+C:\Users\didem\Desktop\newLanguage\overloadingAndOut\bin\Debug\net6.0\overloadingAndOut.pdb
+C:\Users\didem\Desktop\newLanguage\overloadingAndOut\obj\Debug\net6.0\overloadingAndOut.csproj.AssemblyReference.cache
+C:\Users\didem\Desktop\newLanguage\overloadingAndOut\obj\Debug\net6.0\overloadingAndOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didem\Desktop\newLanguage\overloadingAndOut\obj\Debug\net6.0\overloadingAndOut.AssemblyInfoInputs.cache
+C:\Users\didem\Desktop\newLanguage\overloadingAndOut\obj\Debug\net6.0\overloadingAndOut.AssemblyInfo.cs
+C:\Users\didem\Desktop\newLanguage\overloadingAndOut\obj\Debug\net6.0\overloadingAndOut.csproj.CoreCompileInputs.cache
+C:\Users\didem\Desktop\newLanguage\overloadingAndOut\obj\Debug\net6.0\overloadingAndOut.dll
+C:\Users\didem\Desktop\newLanguage\overloadingAndOut\obj\Debug\net6.0\refint\overloadingAndOut.dll
+C:\Users\didem\Desktop\newLanguage\overloadingAndOut\obj\Debug\net6.0\overloadingAndOut.pdb
+C:\Users\didem\Desktop\newLanguage\overloadingAndOut\obj\Debug\net6.0\overloadingAndOut.genruntimeconfig.cache
+C:\Users\didem\Desktop\newLanguage\overloadingAndOut\obj\Debug\net6.0\ref\overloadingAndOut.dll
