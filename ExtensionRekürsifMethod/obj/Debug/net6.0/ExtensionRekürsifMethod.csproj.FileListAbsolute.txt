@@ -1,0 +1,15 @@
+C:\Users\didem\Desktop\newLanguage\ExtensionRekürsifMethod\bin\Debug\net6.0\ExtensionRekürsifMethod.exe
+C:\Users\didem\Desktop\newLanguage\ExtensionRekürsifMethod\bin\Debug\net6.0\ExtensionRekürsifMethod.deps.json
+C:\Users\didem\Desktop\newLanguage\ExtensionRekürsifMethod\bin\Debug\net6.0\ExtensionRekürsifMethod.runtimeconfig.json
+C:\Users\didem\Desktop\newLanguage\ExtensionRekürsifMethod\bin\Debug\net6.0\ExtensionRekürsifMethod.dll
+C:\Users\didem\Desktop\newLanguage\ExtensionRekürsifMethod\bin\Debug\net6.0\ExtensionRekürsifMethod.pdb
+C:\Users\didem\Desktop\newLanguage\ExtensionRekürsifMethod\obj\Debug\net6.0\ExtensionRekürsifMethod.csproj.AssemblyReference.cache
+C:\Users\didem\Desktop\newLanguage\ExtensionRekürsifMethod\obj\Debug\net6.0\ExtensionRekürsifMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didem\Desktop\newLanguage\ExtensionRekürsifMethod\obj\Debug\net6.0\ExtensionRekürsifMethod.AssemblyInfoInputs.cache
+C:\Users\didem\Desktop\newLanguage\ExtensionRekürsifMethod\obj\Debug\net6.0\ExtensionRekürsifMethod.AssemblyInfo.cs
+C:\Users\didem\Desktop\newLanguage\ExtensionRekürsifMethod\obj\Debug\net6.0\ExtensionRekürsifMethod.csproj.CoreCompileInputs.cache
+C:\Users\didem\Desktop\newLanguage\ExtensionRekürsifMethod\obj\Debug\net6.0\ExtensionRekürsifMethod.dll
+C:\Users\didem\Desktop\newLanguage\ExtensionRekürsifMethod\obj\Debug\net6.0\refint\ExtensionRekürsifMethod.dll
+C:\Users\didem\Desktop\newLanguage\ExtensionRekürsifMethod\obj\Debug\net6.0\ExtensionRekürsifMethod.pdb
+C:\Users\didem\Desktop\newLanguage\ExtensionRekürsifMethod\obj\Debug\net6.0\ExtensionRekürsifMethod.genruntimeconfig.cache
+C:\Users\didem\Desktop\newLanguage\ExtensionRekürsifMethod\obj\Debug\net6.0\ref\ExtensionRekürsifMethod.dll
