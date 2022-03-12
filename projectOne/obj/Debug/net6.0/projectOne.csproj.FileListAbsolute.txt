@@ -1,0 +1,15 @@
+C:\Users\didem\Desktop\newLanguage\projectOne\bin\Debug\net6.0\projectOne.exe
+C:\Users\didem\Desktop\newLanguage\projectOne\bin\Debug\net6.0\projectOne.deps.json
+C:\Users\didem\Desktop\newLanguage\projectOne\bin\Debug\net6.0\projectOne.runtimeconfig.json
+C:\Users\didem\Desktop\newLanguage\projectOne\bin\Debug\net6.0\projectOne.dll
+C:\Users\didem\Desktop\newLanguage\projectOne\bin\Debug\net6.0\projectOne.pdb
+C:\Users\didem\Desktop\newLanguage\projectOne\obj\Debug\net6.0\projectOne.csproj.AssemblyReference.cache
+C:\Users\didem\Desktop\newLanguage\projectOne\obj\Debug\net6.0\projectOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didem\Desktop\newLanguage\projectOne\obj\Debug\net6.0\projectOne.AssemblyInfoInputs.cache
+C:\Users\didem\Desktop\newLanguage\projectOne\obj\Debug\net6.0\projectOne.AssemblyInfo.cs
+C:\Users\didem\Desktop\newLanguage\projectOne\obj\Debug\net6.0\projectOne.csproj.CoreCompileInputs.cache
+C:\Users\didem\Desktop\newLanguage\projectOne\obj\Debug\net6.0\projectOne.dll
+C:\Users\didem\Desktop\newLanguage\projectOne\obj\Debug\net6.0\refint\projectOne.dll
+C:\Users\didem\Desktop\newLanguage\projectOne\obj\Debug\net6.0\projectOne.pdb
+C:\Users\didem\Desktop\newLanguage\projectOne\obj\Debug\net6.0\projectOne.genruntimeconfig.cache
+C:\Users\didem\Desktop\newLanguage\projectOne\obj\Debug\net6.0\ref\projectOne.dll
