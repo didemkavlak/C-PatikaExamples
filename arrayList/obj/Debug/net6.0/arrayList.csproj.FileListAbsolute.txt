@@ -1,0 +1,15 @@
+C:\Users\didem\Desktop\newLanguage\arrayList\bin\Debug\net6.0\arrayList.exe
+C:\Users\didem\Desktop\newLanguage\arrayList\bin\Debug\net6.0\arrayList.deps.json
+C:\Users\didem\Desktop\newLanguage\arrayList\bin\Debug\net6.0\arrayList.runtimeconfig.json
+C:\Users\didem\Desktop\newLanguage\arrayList\bin\Debug\net6.0\arrayList.dll
+C:\Users\didem\Desktop\newLanguage\arrayList\bin\Debug\net6.0\arrayList.pdb
+C:\Users\didem\Desktop\newLanguage\arrayList\obj\Debug\net6.0\arrayList.csproj.AssemblyReference.cache
+C:\Users\didem\Desktop\newLanguage\arrayList\obj\Debug\net6.0\arrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didem\Desktop\newLanguage\arrayList\obj\Debug\net6.0\arrayList.AssemblyInfoInputs.cache
+C:\Users\didem\Desktop\newLanguage\arrayList\obj\Debug\net6.0\arrayList.AssemblyInfo.cs
+C:\Users\didem\Desktop\newLanguage\arrayList\obj\Debug\net6.0\arrayList.csproj.CoreCompileInputs.cache
+C:\Users\didem\Desktop\newLanguage\arrayList\obj\Debug\net6.0\arrayList.dll
+C:\Users\didem\Desktop\newLanguage\arrayList\obj\Debug\net6.0\refint\arrayList.dll
+C:\Users\didem\Desktop\newLanguage\arrayList\obj\Debug\net6.0\arrayList.pdb
+C:\Users\didem\Desktop\newLanguage\arrayList\obj\Debug\net6.0\arrayList.genruntimeconfig.cache
+C:\Users\didem\Desktop\newLanguage\arrayList\obj\Debug\net6.0\ref\arrayList.dll
