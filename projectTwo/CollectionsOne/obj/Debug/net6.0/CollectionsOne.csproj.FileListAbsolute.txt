@@ -1,0 +1,15 @@
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsOne\bin\Debug\net6.0\CollectionsOne.exe
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsOne\bin\Debug\net6.0\CollectionsOne.deps.json
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsOne\bin\Debug\net6.0\CollectionsOne.runtimeconfig.json
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsOne\bin\Debug\net6.0\CollectionsOne.dll
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsOne\bin\Debug\net6.0\CollectionsOne.pdb
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsOne\obj\Debug\net6.0\CollectionsOne.csproj.AssemblyReference.cache
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsOne\obj\Debug\net6.0\CollectionsOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsOne\obj\Debug\net6.0\CollectionsOne.AssemblyInfoInputs.cache
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsOne\obj\Debug\net6.0\CollectionsOne.AssemblyInfo.cs
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsOne\obj\Debug\net6.0\CollectionsOne.csproj.CoreCompileInputs.cache
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsOne\obj\Debug\net6.0\CollectionsOne.dll
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsOne\obj\Debug\net6.0\refint\CollectionsOne.dll
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsOne\obj\Debug\net6.0\CollectionsOne.pdb
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsOne\obj\Debug\net6.0\CollectionsOne.genruntimeconfig.cache
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsOne\obj\Debug\net6.0\ref\CollectionsOne.dll

@@ -1,0 +1,15 @@
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsTwo\bin\Debug\net6.0\CollectionsTwo.exe
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsTwo\bin\Debug\net6.0\CollectionsTwo.deps.json
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsTwo\bin\Debug\net6.0\CollectionsTwo.runtimeconfig.json
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsTwo\bin\Debug\net6.0\CollectionsTwo.dll
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsTwo\bin\Debug\net6.0\CollectionsTwo.pdb
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsTwo\obj\Debug\net6.0\CollectionsTwo.csproj.AssemblyReference.cache
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsTwo\obj\Debug\net6.0\CollectionsTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsTwo\obj\Debug\net6.0\CollectionsTwo.AssemblyInfoInputs.cache
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsTwo\obj\Debug\net6.0\CollectionsTwo.AssemblyInfo.cs
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsTwo\obj\Debug\net6.0\CollectionsTwo.csproj.CoreCompileInputs.cache
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsTwo\obj\Debug\net6.0\CollectionsTwo.dll
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsTwo\obj\Debug\net6.0\refint\CollectionsTwo.dll
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsTwo\obj\Debug\net6.0\CollectionsTwo.pdb
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsTwo\obj\Debug\net6.0\CollectionsTwo.genruntimeconfig.cache
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsTwo\obj\Debug\net6.0\ref\CollectionsTwo.dll

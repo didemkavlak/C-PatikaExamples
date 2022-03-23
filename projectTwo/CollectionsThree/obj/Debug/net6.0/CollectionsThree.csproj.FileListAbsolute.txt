@@ -1,0 +1,15 @@
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsThree\bin\Debug\net6.0\CollectionsThree.exe
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsThree\bin\Debug\net6.0\CollectionsThree.deps.json
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsThree\bin\Debug\net6.0\CollectionsThree.runtimeconfig.json
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsThree\bin\Debug\net6.0\CollectionsThree.dll
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsThree\bin\Debug\net6.0\CollectionsThree.pdb
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsThree\obj\Debug\net6.0\CollectionsThree.csproj.AssemblyReference.cache
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsThree\obj\Debug\net6.0\CollectionsThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsThree\obj\Debug\net6.0\CollectionsThree.AssemblyInfoInputs.cache
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsThree\obj\Debug\net6.0\CollectionsThree.AssemblyInfo.cs
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsThree\obj\Debug\net6.0\CollectionsThree.csproj.CoreCompileInputs.cache
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsThree\obj\Debug\net6.0\CollectionsThree.dll
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsThree\obj\Debug\net6.0\refint\CollectionsThree.dll
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsThree\obj\Debug\net6.0\CollectionsThree.pdb
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsThree\obj\Debug\net6.0\CollectionsThree.genruntimeconfig.cache
+C:\Users\didem\Desktop\newLanguage\projectTwo\CollectionsThree\obj\Debug\net6.0\ref\CollectionsThree.dll
