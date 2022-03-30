@@ -6,9 +6,13 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
+
+            //Nesne içerinde Staic olmayan feildlara o sınıfta oluşturulan nesne aracılığıyla erişiyor.
+            //static elemanlara is oluşturulan sınıfın adıyla erişiyoruz. sınıfAdı.Metot
+
             Console.WriteLine("Çalışan sayısı: {0}", Calisan.CalisanSayisi); //Static nesnelere class ismiyle erişilebilir.
 
-            Calisan calisan = new Calisan("Kudret", "Yıldırım", "iK"); //
+            Calisan calisan = new Calisan("Kudret", "Yıldırım", "iK"); //static olmadığı için instance yaratmamız lazım.Public propertyleri yaratılmadığı için class içinden erişebiliyoruz.
             Console.WriteLine("Çalışan sayısı: {0}", Calisan.CalisanSayisi);
 
             Calisan calisan1 = new Calisan("Ali", "Yılmaz", "İK");
@@ -23,20 +27,20 @@ namespace MyApp
 
     class Calisan
     {
-        private static int calisanSayisi;
+        private static int calisanSayisi; //Static old.için class adıyla erişebiliyoruz.
 
-        public static int CalisanSayisi { get => calisanSayisi; }
+        public static int CalisanSayisi { get => calisanSayisi; } //Çalışan sayısını sadece çalışan classı içinde erişilebilr kılmak için setter'ı kapattık.
 
-        private string Isim;
+        private string Isim; //Sadece kurucusundan erişilebilir nesneler yarattık.Public propertylerini yaratmadık
         private string Soyisim;
         private string Departman;
 
-        static Calisan()
-        {
-            calisanSayisi = 0;
+        static Calisan() //Static kurucu (Erişim belirteçleri yoktur.Public, private vs.). Yalnız bir defa çalışır
+        { 
+            calisanSayisi = 0; //Başlangıçta sıfır 
         }
 
-        public Calisan(string ısim, string soyisim, string departman)
+        public Calisan(string ısim, string soyisim, string departman) //Kurucu // Her defasında çalışır.
         {
             this.Isim = ısim;
             this.Soyisim = soyisim;
@@ -46,7 +50,7 @@ namespace MyApp
 
     }
 
-    static class Islem
+    static class Islem //Static class içindeki tüm elemanlar static olmalıdır.
     {
         public static long Topla(int sayi1, int sayi2)
         {
