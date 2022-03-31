@@ -1,0 +1,15 @@
+C:\Users\didem\Desktop\newLanguage\PolymorphismAndSealedClass\bin\Debug\net6.0\PolymorphismAndSealedClass.exe
+C:\Users\didem\Desktop\newLanguage\PolymorphismAndSealedClass\bin\Debug\net6.0\PolymorphismAndSealedClass.deps.json
+C:\Users\didem\Desktop\newLanguage\PolymorphismAndSealedClass\bin\Debug\net6.0\PolymorphismAndSealedClass.runtimeconfig.json
+C:\Users\didem\Desktop\newLanguage\PolymorphismAndSealedClass\bin\Debug\net6.0\PolymorphismAndSealedClass.dll
+C:\Users\didem\Desktop\newLanguage\PolymorphismAndSealedClass\bin\Debug\net6.0\PolymorphismAndSealedClass.pdb
+C:\Users\didem\Desktop\newLanguage\PolymorphismAndSealedClass\obj\Debug\net6.0\PolymorphismAndSealedClass.csproj.AssemblyReference.cache
+C:\Users\didem\Desktop\newLanguage\PolymorphismAndSealedClass\obj\Debug\net6.0\PolymorphismAndSealedClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didem\Desktop\newLanguage\PolymorphismAndSealedClass\obj\Debug\net6.0\PolymorphismAndSealedClass.AssemblyInfoInputs.cache
+C:\Users\didem\Desktop\newLanguage\PolymorphismAndSealedClass\obj\Debug\net6.0\PolymorphismAndSealedClass.AssemblyInfo.cs
+C:\Users\didem\Desktop\newLanguage\PolymorphismAndSealedClass\obj\Debug\net6.0\PolymorphismAndSealedClass.csproj.CoreCompileInputs.cache
+C:\Users\didem\Desktop\newLanguage\PolymorphismAndSealedClass\obj\Debug\net6.0\PolymorphismAndSealedClass.dll
+C:\Users\didem\Desktop\newLanguage\PolymorphismAndSealedClass\obj\Debug\net6.0\refint\PolymorphismAndSealedClass.dll
+C:\Users\didem\Desktop\newLanguage\PolymorphismAndSealedClass\obj\Debug\net6.0\PolymorphismAndSealedClass.pdb
+C:\Users\didem\Desktop\newLanguage\PolymorphismAndSealedClass\obj\Debug\net6.0\PolymorphismAndSealedClass.genruntimeconfig.cache
+C:\Users\didem\Desktop\newLanguage\PolymorphismAndSealedClass\obj\Debug\net6.0\ref\PolymorphismAndSealedClass.dll
